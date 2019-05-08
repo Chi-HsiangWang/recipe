@@ -6,3 +6,4 @@
 * Enjoy!
 
 * Practice push to GitHub
+* Practice pull from GitHub
