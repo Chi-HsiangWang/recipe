@@ -4,3 +4,5 @@
 * add salt
 * and mix well
 * Enjoy!
+
+* Practice push to GitHub
