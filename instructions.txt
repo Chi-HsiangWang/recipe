@@ -7,3 +7,5 @@
 
 * Practice push to GitHub
 * Practice pull from GitHub
+
+* Staged a change
