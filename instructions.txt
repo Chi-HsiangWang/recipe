@@ -9,5 +9,3 @@
 * Practice pull from GitHub
 
 * Staged a change
-
-* A commit that we want to revert!!!
